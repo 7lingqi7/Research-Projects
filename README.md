@@ -31,7 +31,7 @@ This repository hosts source code, data, notes and interim reports for my active
 
 | 项目 Project                                                                             | 里程碑 Milestones                                    | 状态 Status                            |
 | -------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------ |
-| 数字图像篡改取证<br>Image Tampering Detection and Localization                                   | 文献调研 ✔️<br>数据集构建 ✔️<br>特征提取 ✔️<br>模型训练 ✔️<br>论文撰写 ☐ | ![99.9%](https://img.shields.io/badge/Progress-45%25-2685FF)  Currently in the rebuttal stage, with an average score of 5 out of 10. |
+| 数字图像篡改取证<br>Image Tampering Detection and Localization                                   | 文献调研 ✔️<br>数据集构建 ✔️<br>特征提取 ✔️<br>模型训练 ✔️<br>论文撰写  | ![99.9%](https://img.shields.io/badge/Progress-45%25-2685FF)  Currently in the rebuttal stage, with an average score of 5 out of 10. |
 | 失真图像数字域仿真<br>Distorted Image Digital‑Domain Simulation (DIDDS)                         | 失真模型设计 ⏳⏳<br>模拟管线实现 ☐<br>实验设计 ☐<br>结果分析 ☐       | ![30%](https://img.shields.io/badge/Progress-30%25-FFB000) Simple thresholding or clustering-based segmentation followed by recombination is too susceptible to various interferences and is not the ultimate goal of a generalized model. The aim remains to solve the problem through image processing-based methods rather than generative model-based approaches, with further exploration of underlying physical models.|
 | 钙钛矿神经计算综述<br>Perovskite Neuromorphic Computing Sensing‑Memory‑Compute Survey (PNC‑SMC) | 选题 ✔️<br>文献收集 ⏳<br>写作框架搭建 ⏳<br>稿件初稿 ☐             | ![50%](https://img.shields.io/badge/Progress-25%25-FF5F5F) |
 
